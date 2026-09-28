@@ -1,0 +1,8 @@
+# Windows Zone.Identifier 残留
+*:Zone.Identifier
+
+# 常见忽略项
+node_modules/
+.DS_Store
+Thumbs.db
+*.log
